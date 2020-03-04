@@ -1,0 +1,35 @@
+{
+  "MobilePhone":"2345235",
+  "Type":1,
+  "IncludingTerminal":"",
+  "DepositSize":"",
+  "BrokerageAccountCurrency":0,
+  "Class":"",
+  "Scenario":"",
+  "DepoAccount":"true",
+  "ContractNumber":"",
+  "Margin":"",
+  "InstrumentsType":0,
+  "InstrumentsOther":"",
+  "Files":[
+
+  ],
+  "ClientManager":"Ani Hakobyan",
+  "Comments":[
+
+  ],
+  "ContactPerson":"",
+  "ContactPersonId":"",
+  "TariffId":304,
+  "DefaultTariffType":1,
+  "TerminalDefaultTariffType":1,
+  "TerminalTariffId":"",
+  "ClientCode":"00042560",
+  "UpdatedBy":"",
+  "UpdatedDate":"0001-01-01T00:00:00",
+  "ClosingRejectionReason":"",
+  "CreatedBy":"",
+  "CreatedDate":"0001-01-01T00:00:00",
+  "Status":1,
+  "Id":0
+}

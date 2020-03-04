@@ -1,0 +1,29 @@
+{
+  "Properties": [
+    {
+      "Id": 0,
+      "TariffId": 0,
+      "TariffType": 1,
+      "ServiceFeeFrequency": 3,
+      "ServiceFeeAmount": "23.00",
+      "ServiceFeeCurrency": 1,
+      "Status": 1,
+      "CreatedBy": "",
+      "CreatedDate": "0001-01-01T00:00:00",
+      "UpdatedBy": "",
+      "UpdatedDate": "0001-01-01T00:00:00"
+    }
+  ],
+  "Id": 0,
+  "ContractType": "4",
+  "Name": "Investment_Advisory_tariff_api_test",
+  "Status": 1,
+  "Edition": "Edition",
+  "EditionStart": "12/17/2019",
+  "EditionEnd": "12/8/2022",
+  "CreatedBy": "",
+  "CreatedDate": "0001-01-01T00:00:00",
+  "UpdatedBy": "",
+  "UpdatedDate": "0001-01-01T00:00:00",
+  "Comments": []
+}

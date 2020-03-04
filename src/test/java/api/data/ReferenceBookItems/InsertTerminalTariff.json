@@ -1,0 +1,83 @@
+{
+  "Properties": {
+    "TariffId": 0,
+    "CreatedBy": "",
+    "CreatedDate": "0001-01-01T00:00:00",
+    "UpdatedBy": "",
+    "UpdatedDate": "0001-01-01T00:00:00",
+    "StandardProperties": [
+      {
+        "Id": 0,
+        "TerminalTariffId": 0,
+        "Status": 1,
+        "Currency": 4,
+        "InstrumentsGroup": 2,
+        "Market": 6,
+        "CreatedBy": "",
+        "CreatedDate": "0001-01-01T00:00:00",
+        "UpdatedBy": "",
+        "UpdatedDate": "0001-01-01T00:00:00",
+        "Ranges": [
+          {
+            "Id": 0,
+            "StandardTerminalTariffId": 0,
+            "Minimum": "12",
+            "Maximum": "32",
+            "FeePerContract": "43",
+            "Status": 1,
+            "CreatedBy": "",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "UpdatedBy": "",
+            "UpdatedDate": "0001-01-01T00:00:00",
+            "State": 0
+          },
+          {
+            "Id": 0,
+            "StandardTerminalTariffId": 0,
+            "Minimum": "53",
+            "Maximum": "2578",
+            "FeePerContract": "2345",
+            "Status": 1,
+            "CreatedBy": "",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "UpdatedBy": "",
+            "UpdatedDate": "0001-01-01T00:00:00",
+            "State": 0
+          }
+        ],
+        "TariffType": 1
+      }
+    ],
+    "ByVolumeProperties": [
+      {
+        "Id": 0,
+        "TerminalTariffId": 0,
+        "Status": 1,
+        "Currency": 3,
+        "InstrumentsGroup": 3,
+        "FeePerShare": "23",
+        "MinimumFee": "23",
+        "MaximumFee": "23",
+        "FeePerContract": "123",
+        "MinimumMonthlyVolume": "2310",
+        "CreatedBy": "",
+        "CreatedDate": "0001-01-01T00:00:00",
+        "UpdatedBy": "",
+        "UpdatedDate": "0001-01-01T00:00:00",
+        "TariffType": 2
+      }
+    ]
+  },
+  "Id": 0,
+  "ContractType": "3",
+  "Name": "Terminal_Tariff_api_test",
+  "Status": 1,
+  "Edition": "Edition_test",
+  "EditionStart": "12/17/2019",
+  "EditionEnd": "9/24/2020",
+  "CreatedBy": "",
+  "CreatedDate": "0001-01-01T00:00:00",
+  "UpdatedBy": "",
+  "UpdatedDate": "0001-01-01T00:00:00",
+  "Comments": []
+}

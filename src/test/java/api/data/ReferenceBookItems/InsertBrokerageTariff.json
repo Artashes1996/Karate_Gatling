@@ -1,0 +1,34 @@
+{
+  "Properties": [
+    {
+      "Id": 0,
+      "TariffId": 0,
+      "TariffType": 1,
+      "Status": 1,
+      "Market": 2,
+      "CustomerType": 2,
+      "InstrumentsGroup": 1,
+      "TransactionFeeOfNominalValue": "12",
+      "TransactionFeeOfTradeValue": "21",
+      "TransactionMinimumFee": "24.00",
+      "TransactionFeePerSecurity": "35",
+      "TransactionFeeCurrency": 3,
+      "CreatedBy": "",
+      "CreatedDate": "0001-01-01T00:00:00",
+      "UpdatedBy": "",
+      "UpdatedDate": "0001-01-01T00:00:00"
+    }
+  ],
+  "Id": 0,
+  "ContractType": "2",
+  "Name": "Brokerage_Tariff_api_test",
+  "Status": 1,
+  "Edition": "Edition_test",
+  "EditionStart": "12/17/2019",
+  "EditionEnd": "4/22/2021",
+  "CreatedBy": "",
+  "CreatedDate": "0001-01-01T00:00:00",
+  "UpdatedBy": "",
+  "UpdatedDate": "0001-01-01T00:00:00",
+  "Comments": []
+}

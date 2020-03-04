@@ -1,0 +1,31 @@
+{
+  "Properties": [
+    {
+      "Id": 0,
+      "TariffId": 0,
+      "TariffType": 1,
+      "ServiceFeeFrequency": 3,
+      "ServiceFeeAmount": "123.00",
+      "ServiceFeeCurrency": 1,
+      "Status": 1,
+      "OutgoingTransfersAmount": "456.00",
+      "OutgoingTransfersCurrency": 1,
+      "CreatedBy": "",
+      "CreatedDate": "0001-01-01T00:00:00",
+      "UpdatedBy": "",
+      "UpdatedDate": "0001-01-01T00:00:00"
+    }
+  ],
+  "Id": 0,
+  "ContractType": "1",
+  "Name": "Custody_Tariff_api_test",
+  "Status": 1,
+  "Edition": "Edition_test",
+  "EditionStart": "12/17/2019",
+  "EditionEnd": "2/19/2021",
+  "CreatedBy": "",
+  "CreatedDate": "0001-01-01T00:00:00",
+  "UpdatedBy": "",
+  "UpdatedDate": "0001-01-01T00:00:00",
+  "Comments": []
+}
